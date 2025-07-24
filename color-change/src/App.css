@@ -1,0 +1,9 @@
+.app{
+  width : 500px;
+  border: 2px solid black;
+  padding :10px;
+  box-sizing: border-box;
+  
+  gap :10px;
+  border-style:2px groove;
+}

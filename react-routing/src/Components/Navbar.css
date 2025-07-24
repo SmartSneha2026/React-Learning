@@ -1,0 +1,12 @@
+ul {
+    list-style: none;
+    display : flex;
+    justify-content: space-between;
+    align-content: center;
+    padding-right : 10%;
+    background-color : beige;
+}
+
+.active-link {
+   border : 2px solid burlywood;
+}
